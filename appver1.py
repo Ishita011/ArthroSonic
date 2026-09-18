@@ -57,6 +57,26 @@ st.logo("Assets/logo.png")
 # RESPONSIVE LIGHT / DARK THEME
 # ============================================================
 
+# ============================================================
+# HIDE STREAMLIT TOP TOOLBAR
+# ============================================================
+
+render_markdown("""
+<style>
+header[data-testid="stHeader"] {
+    display: none !important;
+}
+
+div[data-testid="stToolbar"] {
+    display: none !important;
+}
+
+div[data-testid="stDecoration"] {
+    display: none !important;
+}
+</style>
+""")
+
 render_markdown("""
 <style>
 
