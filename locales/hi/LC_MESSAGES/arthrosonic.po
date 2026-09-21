@@ -1,0 +1,225 @@
+# Hindi translations for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-21 16:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: hi\n"
+"Language-Team: hi <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid "Yes"
+msgstr "हाँ"
+
+msgid "Low"
+msgstr "कम"
+
+msgid "Moderate"
+msgstr "मध्यम"
+
+msgid "High"
+msgstr "उच्च"
+
+msgid "Male"
+msgstr "पुरुष"
+
+msgid "Female"
+msgstr "महिला"
+
+msgid "Other"
+msgstr "अन्य"
+
+msgid "READY"
+msgstr "तैयार"
+
+msgid "Gait m/s"
+msgstr "चाल m/s"
+
+msgid "Knee ROM"
+msgstr "घुटने की ROM"
+
+msgid "Symmetry"
+msgstr "समरूपता"
+
+msgid "Amplitude"
+msgstr "आयाम"
+
+msgid "DEMO OUTPUT"
+msgstr "डेमो आउटपुट"
+
+msgid "Sound Events"
+msgstr "ध्वनि घटनाएँ"
+
+msgid "02 · Movement"
+msgstr "02 · गति"
+
+msgid "03 · Symptoms"
+msgstr "03 · लक्षण"
+
+msgid "01 · Joint Signal"
+msgstr "01 · जोड़ संकेत"
+
+msgid "Sensor Network"
+msgstr "सेंसर नेटवर्क"
+
+msgid "Time (seconds)"
+msgstr "समय (सेकंड)"
+
+msgid "Assessment Date"
+msgstr "मूल्यांकन तिथि"
+
+msgid "AI Engine — Ready"
+msgstr "AI इंजन — तैयार"
+
+msgid "IMU Module — Connected"
+msgstr "IMU मॉड्यूल — कनेक्टेड"
+
+msgid "Local Database — Ready"
+msgstr "स्थानीय डेटाबेस — तैयार"
+
+msgid "Joint Signal Sensor — Connected"
+msgstr "जोड़ संकेत सेंसर — कनेक्टेड"
+
+msgid "Live Joint Signal"
+msgstr "लाइव जोड़ संकेत"
+
+msgid "Sound Event Trend"
+msgstr "ध्वनि घटना प्रवृत्ति"
+
+msgid "Patient Twin State"
+msgstr "रोगी ट्विन स्थिति"
+
+msgid "Right Knee Profile"
+msgstr "दायाँ घुटने की प्रोफ़ाइल"
+
+msgid "Screening Workflow"
+msgstr "स्क्रीनिंग कार्यप्रवाह"
+
+msgid "Longitudinal Trends"
+msgstr "दीर्घकालिक प्रवृत्तियाँ"
+
+msgid "Why a Digital Twin?"
+msgstr "डिजिटल ट्विन क्यों?"
+
+msgid "Live System Overview"
+msgstr "लाइव सिस्टम अवलोकन"
+
+msgid "Previous Assessments"
+msgstr "पिछले मूल्यांकन"
+
+msgid "Prototype Risk Index"
+msgstr "प्रोटोटाइप जोखिम सूचकांक"
+
+msgid "DIGITAL PATIENT MODEL"
+msgstr "डिजिटल रोगी मॉडल"
+
+msgid "Digital Twin Timeline"
+msgstr "डिजिटल ट्विन समयरेखा"
+
+msgid "MODERATE MARKER STATE"
+msgstr "मध्यम संकेतक स्थिति"
+
+msgid "OA HUMAN DIGITAL TWIN"
+msgstr "OA मानव डिजिटल ट्विन"
+
+msgid "Personalized Baseline"
+msgstr "व्यक्तिगत बेसलाइन"
+
+msgid "1. Patient Information"
+msgstr "1. रोगी जानकारी"
+
+msgid "Patient Movement State"
+msgstr "रोगी गति स्थिति"
+
+msgid "✓ Acquisition Complete"
+msgstr "✓ अधिग्रहण पूर्ण"
+
+msgid "Longitudinal monitoring"
+msgstr "दीर्घकालिक निगरानी"
+
+msgid "PERSONALIZED MONITORING"
+msgstr "व्यक्तिगत निगरानी"
+
+msgid "Time-Frequency Analysis"
+msgstr "समय-आवृत्ति विश्लेषण"
+
+msgid "Joint Signal Acquisition"
+msgstr "जोड़ संकेत अधिग्रहण"
+
+msgid "Screening Interpretation"
+msgstr "स्क्रीनिंग व्याख्या"
+
+msgid "2. Connect Patient Record"
+msgstr "2. रोगी रिकॉर्ड कनेक्ट करें"
+
+msgid "Guided Assessment Protocol"
+msgstr "निर्देशित मूल्यांकन प्रोटोकॉल"
+
+msgid "Multimodal Patient Profile"
+msgstr "मल्टीमॉडल रोगी प्रोफ़ाइल"
+
+msgid "OA-associated risk markers"
+msgstr "OA-संबंधित जोखिम संकेतक"
+
+msgid "RUN MULTIMODAL AI ANALYSIS"
+msgstr "मल्टीमॉडल AI विश्लेषण चलाएँ"
+
+msgid "Turning joint signals into"
+msgstr "जोड़ संकेतों को रूपांतरित करना"
+
+msgid "actionable risk markers."
+msgstr "कार्रवाई योग्य जोखिम संकेतक।"
+
+msgid "✓ Patient record confirmed"
+msgstr "✓ रोगी रिकॉर्ड की पुष्टि हुई"
+
+msgid "4. OA Risk Factors & Symptoms"
+msgstr "4. OA जोखिम कारक और लक्षण"
+
+msgid "Attached for this assessment:"
+msgstr "इस मूल्यांकन के लिए संलग्न:"
+
+msgid "PATIENT DIGITAL REPRESENTATION"
+msgstr "रोगी डिजिटल प्रतिनिधित्व"
+
+msgid "PROTOTYPE / SIMULATED AI OUTPUT"
+msgstr "प्रोटोटाइप / सिम्युलेटेड AI आउटपुट"
+
+msgid "ArthroSonic Prototype • SIH 2026"
+msgstr "ArthroSonic प्रोटोटाइप • SIH 2026"
+
+msgid "Patient-Specific State Variables"
+msgstr "रोगी-विशिष्ट स्थिति चर"
+
+msgid "3. Latest Reports & Medical Documents"
+msgstr "3. नवीनतम रिपोर्ट और चिकित्सा दस्तावेज़"
+
+msgid "Prototype multimodal analysis completed."
+msgstr "प्रोटोटाइप मल्टीमॉडल विश्लेषण पूर्ण हुआ।"
+
+msgid "From one-time screening to longitudinal monitoring."
+msgstr "एक बार की स्क्रीनिंग से दीर्घकालिक निगरानी तक।"
+
+msgid "Prototype only: files are available during the current app session."
+msgstr "केवल प्रोटोटाइप: फाइलें वर्तमान ऐप सत्र में उपलब्ध हैं।"
+
+msgid "AI-Assisted Osteoarthritis Risk Screening"
+msgstr "AI-सहायित ऑस्टियोआर्थराइटिस जोखिम स्क्रीनिंग"
+
+msgid "ARTHROSONIC • FIELD SCREENING PLATFORM"
+msgstr "ARTHROSONIC • फील्ड स्क्रीनिंग प्लेटफॉर्म"
+

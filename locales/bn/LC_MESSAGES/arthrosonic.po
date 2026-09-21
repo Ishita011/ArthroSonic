@@ -1,0 +1,820 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-21 16:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: bn\n"
+"Language-Team: bn <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "AI Analysis"
+msgstr "AI বিশ্লেষণ"
+
+msgid "AI-Assisted Osteoarthritis Risk Screening"
+msgstr "AI-সহায়িত অস্টিওআর্থ্রাইটিস ঝুঁকি স্ক্রিনিং"
+
+msgid "Address"
+msgstr "ঠিকানা"
+
+msgid "Age"
+msgstr "বয়স"
+
+msgid "Assessment"
+msgstr "মূল্যায়ন"
+
+msgid "CONFIRM PATIENT"
+msgstr "রোগী নিশ্চিত করুন"
+
+msgid "CONTINUE TO AI ANALYSIS →"
+msgstr "AI বিশ্লেষণে যান →"
+
+msgid "Confirm the identity first. ArthroSonic can then reconnect the current assessment with previous screening records available in the prototype session."
+msgstr "প্রথমে পরিচয় নিশ্চিত করুন। এরপর বর্তমান মূল্যায়নকে প্রোটোটাইপ সেশনে থাকা পূর্বের স্ক্রিনিং রেকর্ডের সঙ্গে যুক্ত করা যাবে।"
+
+msgid "Connect Patient Record"
+msgstr "রোগীর রেকর্ড সংযুক্ত করুন"
+
+msgid "Connect to previous patient data"
+msgstr "পূর্বের রোগীর তথ্য সংযুক্ত করুন"
+
+msgid "DEPLOYMENT"
+msgstr "ডিপ্লয়মেন্ট"
+
+msgid "DOWNLOAD SCREENING REPORT"
+msgstr "স্ক্রিনিং রিপোর্ট ডাউনলোড করুন"
+
+msgid "Data Quality"
+msgstr "ডেটার গুণমান"
+
+msgid "Digital Twin"
+msgstr "ডিজিটাল টুইন"
+
+msgid "Explainable Screening Factors"
+msgstr "ব্যাখ্যাযোগ্য স্ক্রিনিং কারণ"
+
+msgid "Family History of OA"
+msgstr "OA-এর পারিবারিক ইতিহাস"
+
+msgid "Full Name"
+msgstr "পূর্ণ নাম"
+
+msgid "HIGH"
+msgstr "উচ্চ"
+
+msgid "Joint Screened"
+msgstr "স্ক্রিন করা জয়েন্ট"
+
+msgid "Joint Signal Analysis"
+msgstr "হাঁটুর সিগন্যাল বিশ্লেষণ"
+
+msgid "Knee"
+msgstr "হাঁটু"
+
+msgid "Knee only"
+msgstr "শুধু হাঁটু"
+
+msgid "LOW"
+msgstr "কম"
+
+msgid "Latest Reports & Medical Documents"
+msgstr "সাম্প্রতিক রিপোর্ট ও চিকিৎসা নথি"
+
+msgid "Location"
+msgstr "অবস্থান"
+
+msgid "Longitudinal Risk Monitoring"
+msgstr "দীর্ঘমেয়াদি ঝুঁকি পর্যবেক্ষণ"
+
+msgid "MEDIUM"
+msgstr "মাঝারি"
+
+msgid "Mobility Difficulty"
+msgstr "চলাচলে অসুবিধা"
+
+msgid "Movement & Patient-Reported Findings"
+msgstr "চলাচল ও রোগীর জানানো ফলাফল"
+
+msgid "NAVIGATION"
+msgstr "নেভিগেশন"
+
+msgid "NEXT →"
+msgstr "পরবর্তী →"
+
+msgid "OA Risk Factors & Symptoms"
+msgstr "OA ঝুঁকির কারণ ও উপসর্গ"
+
+msgid "Occupation"
+msgstr "পেশা"
+
+msgid "Overview"
+msgstr "ওভারভিউ"
+
+msgid "Pain Level"
+msgstr "ব্যথার মাত্রা"
+
+msgid "Patient History"
+msgstr "রোগীর ইতিহাস"
+
+msgid "Patient ID"
+msgstr "রোগী ID"
+
+msgid "Patient Information"
+msgstr "রোগীর তথ্য"
+
+msgid "Patient Profile"
+msgstr "রোগীর প্রোফাইল"
+
+msgid "Phone Number"
+msgstr "ফোন নম্বর"
+
+msgid "Physical Activity"
+msgstr "শারীরিক কার্যকলাপ"
+
+msgid "Previous Knee Injury"
+msgstr "পূর্বের হাঁটুর আঘাত"
+
+msgid "Report Date"
+msgstr "রিপোর্টের তারিখ"
+
+msgid "Risk Index"
+msgstr "ঝুঁকি সূচক"
+
+msgid "SAVE & CONTINUE TO ASSESSMENT →"
+msgstr "সংরক্ষণ করে মূল্যায়নে যান →"
+
+msgid "START SENSOR RECORDING"
+msgstr "সেন্সর রেকর্ডিং শুরু করুন"
+
+msgid "SYSTEM STATUS"
+msgstr "সিস্টেম স্ট্যাটাস"
+
+msgid "Screening Grade"
+msgstr "স্ক্রিনিং গ্রেড"
+
+msgid "Sex"
+msgstr "লিঙ্গ"
+
+msgid "Stiffness"
+msgstr "জড়তা"
+
+msgid "Terrain Exposure"
+msgstr "ভূখণ্ডের সংস্পর্শ"
+
+msgid "Upload any recent reports that may help the healthcare worker review the patient's history. These can include X-rays, MRI scans, CT scans, ultrasound reports, blood work, prescriptions, or other relevant documents."
+msgstr "সাম্প্রতিক রিপোর্ট আপলোড করুন যা স্বাস্থ্যকর্মীকে রোগীর ইতিহাস পর্যালোচনায় সহায়তা করতে পারে। এতে X-ray, MRI, CT, আল্ট্রাসাউন্ড, রক্ত পরীক্ষা বা অন্যান্য নথি থাকতে পারে।"
+
+msgid "Upload latest reports"
+msgstr "সাম্প্রতিক রিপোর্ট আপলোড করুন"
+
+msgid "What Did the System Find?"
+msgstr "সিস্টেম কী পেয়েছে?"
+
+msgid "What Do the Grades Mean?"
+msgstr "গ্রেডগুলির অর্থ কী?"
+
+msgid "What Does This Mean for You?"
+msgstr "এর অর্থ কী?"
+
+msgid "acquisition"
+msgstr "সংগ্রহ"
+
+msgid "active"
+msgstr "সক্রিয়"
+
+msgid "activity"
+msgstr "কার্যকলাপ"
+
+msgid "address"
+msgstr "ঠিকানা"
+
+msgid "age"
+msgstr "বয়স"
+
+msgid "analysis"
+msgstr "বিশ্লেষণ"
+
+msgid "assessment"
+msgstr "মূল্যায়ন"
+
+msgid "baseline"
+msgstr "বেসলাইন"
+
+msgid "captured"
+msgstr "রেকর্ড করা হয়েছে"
+
+msgid "changes"
+msgstr "পরিবর্তন"
+
+msgid "characteristics"
+msgstr "বৈশিষ্ট্য"
+
+msgid "clearly"
+msgstr "স্পষ্টভাবে"
+
+msgid "complete"
+msgstr "সম্পূর্ণ"
+
+msgid "completed"
+msgstr "সম্পন্ন হয়েছে"
+
+msgid "confirm"
+msgstr "নিশ্চিত করুন"
+
+msgid "confirmed"
+msgstr "নিশ্চিত হয়েছে"
+
+msgid "connect"
+msgstr "সংযুক্ত করুন"
+
+msgid "connected"
+msgstr "সংযুক্ত"
+
+msgid "continue"
+msgstr "এগিয়ে যান"
+
+msgid "current"
+msgstr "বর্তমান"
+
+msgid "data"
+msgstr "ডেটা"
+
+msgid "date"
+msgstr "তারিখ"
+
+msgid "demonstration"
+msgstr "প্রদর্শন"
+
+msgid "deployment"
+msgstr "ডিপ্লয়মেন্ট"
+
+msgid "details"
+msgstr "বিবরণ"
+
+msgid "detected"
+msgstr "পাওয়া গেছে"
+
+msgid "diagnostic"
+msgstr "রোগনির্ণয়"
+
+msgid "difficulty"
+msgstr "অসুবিধা"
+
+msgid "digital"
+msgstr "ডিজিটাল"
+
+msgid "documents"
+msgstr "নথি"
+
+msgid "download"
+msgstr "ডাউনলোড"
+
+msgid "engine"
+msgstr "ইঞ্জিন"
+
+msgid "events"
+msgstr "ঘটনা"
+
+msgid "explainable"
+msgstr "ব্যাখ্যাযোগ্য"
+
+msgid "exposure"
+msgstr "সংস্পর্শ"
+
+msgid "extraction"
+msgstr "নিষ্কাশন"
+
+msgid "factors"
+msgstr "কারণ"
+
+msgid "family"
+msgstr "পারিবারিক"
+
+msgid "feature"
+msgstr "ফিচার"
+
+msgid "female"
+msgstr "মহিলা"
+
+msgid "findings"
+msgstr "ফলাফল"
+
+msgid "follow-up"
+msgstr "ফলো-আপ"
+
+msgid "found"
+msgstr "পেয়েছে"
+
+msgid "gait"
+msgstr "গেইট"
+
+msgid "generated"
+msgstr "তৈরি করা হয়েছে"
+
+msgid "good"
+msgstr "ভালো"
+
+msgid "grade"
+msgstr "গ্রেড"
+
+msgid "guided"
+msgstr "নির্দেশিত"
+
+msgid "high"
+msgstr "উচ্চ"
+
+msgid "history"
+msgstr "ইতিহাস"
+
+msgid "important"
+msgstr "গুরুত্বপূর্ণ"
+
+msgid "index"
+msgstr "সূচক"
+
+msgid "information"
+msgstr "তথ্য"
+
+msgid "interpretation"
+msgstr "ব্যাখ্যা"
+
+msgid "joint"
+msgstr "জয়েন্ট"
+
+msgid "knee"
+msgstr "হাঁটু"
+
+msgid "latest"
+msgstr "সাম্প্রতিক"
+
+msgid "level"
+msgstr "স্তর"
+
+msgid "location"
+msgstr "অবস্থান"
+
+msgid "longitudinal"
+msgstr "দীর্ঘমেয়াদি"
+
+msgid "low"
+msgstr "কম"
+
+msgid "male"
+msgstr "পুরুষ"
+
+msgid "markers"
+msgstr "সূচক"
+
+msgid "mean"
+msgstr "অর্থ"
+
+msgid "meaning"
+msgstr "অর্থ"
+
+msgid "medical"
+msgstr "চিকিৎসা"
+
+msgid "medium"
+msgstr "মাঝারি"
+
+msgid "mobility"
+msgstr "চলাচল"
+
+msgid "moderate"
+msgstr "মাঝারি"
+
+msgid "monitoring"
+msgstr "পর্যবেক্ষণ"
+
+msgid "motion"
+msgstr "নড়াচড়া"
+
+msgid "movement"
+msgstr "নড়াচড়া"
+
+msgid "name"
+msgstr "নাম"
+
+msgid "navigation"
+msgstr "নেভিগেশন"
+
+msgid "next"
+msgstr "পরবর্তী"
+
+msgid "no"
+msgstr "না"
+
+msgid "number"
+msgstr "নম্বর"
+
+msgid "occupation"
+msgstr "পেশা"
+
+msgid "online"
+msgstr "অনলাইন"
+
+msgid "only"
+msgstr "শুধু"
+
+msgid "other"
+msgstr "অন্যান্য"
+
+msgid "output"
+msgstr "আউটপুট"
+
+msgid "overview"
+msgstr "ওভারভিউ"
+
+msgid "pain"
+msgstr "ব্যথা"
+
+msgid "patient"
+msgstr "রোগী"
+
+msgid "patterns"
+msgstr "প্যাটার্ন"
+
+msgid "personalized"
+msgstr "ব্যক্তিগতকৃত"
+
+msgid "phone"
+msgstr "ফোন"
+
+msgid "physical"
+msgstr "শারীরিক"
+
+msgid "predictive"
+msgstr "পূর্বাভাসমূলক"
+
+msgid "previous"
+msgstr "পূর্ববর্তী"
+
+msgid "probability"
+msgstr "সম্ভাবনা"
+
+msgid "profile"
+msgstr "প্রোফাইল"
+
+msgid "protocol"
+msgstr "প্রোটোকল"
+
+msgid "prototype"
+msgstr "প্রোটোটাইপ"
+
+msgid "quality"
+msgstr "গুণমান"
+
+msgid "range"
+msgstr "পরিসর"
+
+msgid "ready"
+msgstr "প্রস্তুত"
+
+msgid "record"
+msgstr "রেকর্ড"
+
+msgid "recording"
+msgstr "রেকর্ডিং"
+
+msgid "reference"
+msgstr "রেফারেন্স"
+
+msgid "report"
+msgstr "রিপোর্ট"
+
+msgid "reported"
+msgstr "জানানো"
+
+msgid "representation"
+msgstr "প্রতিনিধিত্ব"
+
+msgid "research"
+msgstr "গবেষণা"
+
+msgid "result"
+msgstr "ফলাফল"
+
+msgid "risk"
+msgstr "ঝুঁকি"
+
+msgid "score"
+msgstr "স্কোর"
+
+msgid "screened"
+msgstr "স্ক্রিন করা"
+
+msgid "screening"
+msgstr "স্ক্রিনিং"
+
+msgid "sensor"
+msgstr "সেন্সর"
+
+msgid "sex"
+msgstr "লিঙ্গ"
+
+msgid "signal"
+msgstr "সিগন্যাল"
+
+msgid "simple"
+msgstr "সহজ"
+
+msgid "simulated"
+msgstr "সিমুলেটেড"
+
+msgid "site"
+msgstr "স্থান"
+
+msgid "sound"
+msgstr "শব্দ"
+
+msgid "start"
+msgstr "শুরু"
+
+msgid "state"
+msgstr "অবস্থা"
+
+msgid "status"
+msgstr "স্ট্যাটাস"
+
+msgid "step"
+msgstr "ধাপ"
+
+msgid "stiffness"
+msgstr "জড়তা"
+
+msgid "suitable"
+msgstr "উপযুক্ত"
+
+msgid "symmetry"
+msgstr "সমতা"
+
+msgid "symptoms"
+msgstr "উপসর্গ"
+
+msgid "system"
+msgstr "সিস্টেম"
+
+msgid "terrain"
+msgstr "ভূখণ্ড"
+
+msgid "time"
+msgstr "সময়"
+
+msgid "timeline"
+msgstr "সময়রেখা"
+
+msgid "treatment"
+msgstr "চিকিৎসা"
+
+msgid "twin"
+msgstr "টুইন"
+
+msgid "upload"
+msgstr "আপলোড"
+
+msgid "variables"
+msgstr "ভেরিয়েবল"
+
+msgid "vibration"
+msgstr "কম্পন"
+
+msgid "what"
+msgstr "কি"
+
+msgid "why"
+msgstr "কেন"
+
+msgid "words"
+msgstr "ভাষায়"
+
+msgid "workflow"
+msgstr "কার্যপ্রবাহ"
+
+msgid "yes"
+msgstr "হ্যাঁ"
+
+msgid "🏠 Overview"
+msgstr "🏠 ওভারভিউ"
+
+msgid "👤 Patient Profile"
+msgstr "👤 রোগীর প্রোফাইল"
+
+msgid "📋 Patient History"
+msgstr "📋 রোগীর ইতিহাস"
+
+msgid "📡 Assessment"
+msgstr "📡 মূল্যায়ন"
+
+msgid "🧠 AI Analysis"
+msgstr "🧠 AI বিশ্লেষণ"
+
+msgid "🧬 Digital Twin"
+msgstr "🧬 ডিজিটাল টুইন"
+
+msgid "No"
+msgstr "না"
+
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+msgid "Low"
+msgstr "কম"
+
+msgid "Moderate"
+msgstr "মাঝারি"
+
+msgid "High"
+msgstr "উচ্চ"
+
+msgid "Male"
+msgstr "পুরুষ"
+
+msgid "Female"
+msgstr "মহিলা"
+
+msgid "Other"
+msgstr "অন্যান্য"
+
+msgid "READY"
+msgstr "প্রস্তুত"
+
+msgid "Gait m/s"
+msgstr "গেইট m/s"
+
+msgid "Knee ROM"
+msgstr "হাঁটুর ROM"
+
+msgid "Symmetry"
+msgstr "সমতা"
+
+msgid "Amplitude"
+msgstr "অ্যামপ্লিটিউড"
+
+msgid "DEMO OUTPUT"
+msgstr "ডেমো আউটপুট"
+
+msgid "Sound Events"
+msgstr "শব্দ ইভেন্ট"
+
+msgid "02 · Movement"
+msgstr "02 · গতি"
+
+msgid "03 · Symptoms"
+msgstr "03 · উপসর্গ"
+
+msgid "01 · Joint Signal"
+msgstr "01 · জয়েন্ট সিগন্যাল"
+
+msgid "Sensor Network"
+msgstr "সেন্সর নেটওয়ার্ক"
+
+msgid "Time (seconds)"
+msgstr "সময় (সেকেন্ড)"
+
+msgid "Assessment Date"
+msgstr "মূল্যায়নের তারিখ"
+
+msgid "AI Engine — Ready"
+msgstr "AI ইঞ্জিন — প্রস্তুত"
+
+msgid "IMU Module — Connected"
+msgstr "IMU মডিউল — সংযুক্ত"
+
+msgid "Local Database — Ready"
+msgstr "স্থানীয় ডেটাবেস — প্রস্তুত"
+
+msgid "Joint Signal Sensor — Connected"
+msgstr "জয়েন্ট সিগন্যাল সেন্সর — সংযুক্ত"
+
+msgid "Live Joint Signal"
+msgstr "লাইভ জয়েন্ট সিগন্যাল"
+
+msgid "Sound Event Trend"
+msgstr "শব্দ ইভেন্ট প্রবণতা"
+
+msgid "Patient Twin State"
+msgstr "রোগীর টুইন অবস্থা"
+
+msgid "Right Knee Profile"
+msgstr "ডান হাঁটুর প্রোফাইল"
+
+msgid "Screening Workflow"
+msgstr "স্ক্রিনিং কর্মপ্রবাহ"
+
+msgid "Longitudinal Trends"
+msgstr "দীর্ঘমেয়াদি প্রবণতা"
+
+msgid "Why a Digital Twin?"
+msgstr "ডিজিটাল টুইন কেন?"
+
+msgid "Live System Overview"
+msgstr "লাইভ সিস্টেম ওভারভিউ"
+
+msgid "Previous Assessments"
+msgstr "পূর্ববর্তী মূল্যায়ন"
+
+msgid "Prototype Risk Index"
+msgstr "প্রোটোটাইপ ঝুঁকি সূচক"
+
+msgid "DIGITAL PATIENT MODEL"
+msgstr "ডিজিটাল রোগী মডেল"
+
+msgid "Digital Twin Timeline"
+msgstr "ডিজিটাল টুইন টাইমলাইন"
+
+msgid "MODERATE MARKER STATE"
+msgstr "মাঝারি সূচক অবস্থা"
+
+msgid "OA HUMAN DIGITAL TWIN"
+msgstr "OA মানব ডিজিটাল টুইন"
+
+msgid "Personalized Baseline"
+msgstr "ব্যক্তিগত বেসলাইন"
+
+msgid "1. Patient Information"
+msgstr "1. রোগীর তথ্য"
+
+msgid "Patient Movement State"
+msgstr "রোগীর গতি অবস্থা"
+
+msgid "✓ Acquisition Complete"
+msgstr "✓ অধিগ্রহণ সম্পন্ন"
+
+msgid "Longitudinal monitoring"
+msgstr "দীর্ঘমেয়াদি পর্যবেক্ষণ"
+
+msgid "PERSONALIZED MONITORING"
+msgstr "ব্যক্তিগত পর্যবেক্ষণ"
+
+msgid "Time-Frequency Analysis"
+msgstr "সময়-ফ্রিকোয়েন্সি বিশ্লেষণ"
+
+msgid "Joint Signal Acquisition"
+msgstr "জয়েন্ট সিগন্যাল অধিগ্রহণ"
+
+msgid "Screening Interpretation"
+msgstr "স্ক্রিনিং ব্যাখ্যা"
+
+msgid "2. Connect Patient Record"
+msgstr "2. রোগীর রেকর্ড সংযুক্ত করুন"
+
+msgid "Guided Assessment Protocol"
+msgstr "নির্দেশিত মূল্যায়ন প্রোটোকল"
+
+msgid "Multimodal Patient Profile"
+msgstr "মাল্টিমোডাল রোগীর প্রোফাইল"
+
+msgid "OA-associated risk markers"
+msgstr "OA-সম্পর্কিত ঝুঁকি সূচক"
+
+msgid "RUN MULTIMODAL AI ANALYSIS"
+msgstr "মাল্টিমোডাল AI বিশ্লেষণ চালান"
+
+msgid "Turning joint signals into"
+msgstr "জয়েন্ট সিগন্যালকে রূপান্তর করা"
+
+msgid "actionable risk markers."
+msgstr "কার্যকর ঝুঁকি সূচক।"
+
+msgid "✓ Patient record confirmed"
+msgstr "✓ রোগীর রেকর্ড নিশ্চিত হয়েছে"
+
+msgid "4. OA Risk Factors & Symptoms"
+msgstr "4. OA ঝুঁকি কারণ ও উপসর্গ"
+
+msgid "Attached for this assessment:"
+msgstr "এই মূল্যায়নের জন্য সংযুক্ত:"
+
+msgid "PATIENT DIGITAL REPRESENTATION"
+msgstr "রোগীর ডিজিটাল প্রতিনিধিত্ব"
+
+msgid "PROTOTYPE / SIMULATED AI OUTPUT"
+msgstr "প্রোটোটাইপ / সিমুলেটেড AI আউটপুট"
+
+msgid "ArthroSonic Prototype • SIH 2026"
+msgstr "ArthroSonic প্রোটোটাইপ • SIH 2026"
+
+msgid "Patient-Specific State Variables"
+msgstr "রোগী-নির্দিষ্ট অবস্থা চলক"
+
+msgid "3. Latest Reports & Medical Documents"
+msgstr "3. সর্বশেষ রিপোর্ট ও চিকিৎসা নথি"
+
+msgid "Prototype multimodal analysis completed."
+msgstr "প্রোটোটাইপ মাল্টিমোডাল বিশ্লেষণ সম্পন্ন হয়েছে।"
+
+msgid "From one-time screening to longitudinal monitoring."
+msgstr "এককালীন স্ক্রিনিং থেকে দীর্ঘমেয়াদি পর্যবেক্ষণ পর্যন্ত।"
+
+msgid "Prototype only: files are available during the current app session."
+msgstr "শুধু প্রোটোটাইপ: ফাইলগুলি বর্তমান অ্যাপ সেশনে উপলব্ধ।"
+
+msgid "ARTHROSONIC • FIELD SCREENING PLATFORM"
+msgstr "ARTHROSONIC • ফিল্ড স্ক্রিনিং প্ল্যাটফর্ম"
+
