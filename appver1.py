@@ -26,6 +26,27 @@ import io
 import textwrap
 import re
 
+def load_pdf_font(font_path, size):
+    font_path = Path(font_path)
+
+    if not font_path.exists():
+        raise FileNotFoundError(
+            f"Required PDF font not found: {font_path}"
+        )
+
+    if font_path.stat().st_size < 10000:
+        raise RuntimeError(
+            f"PDF font appears invalid or incomplete: {font_path}"
+        )
+
+    try:
+        return ImageFont.truetype(str(font_path), size)
+    except Exception as e:
+        raise RuntimeError(
+            f"Could not load PDF font: {font_path}\n"
+            f"Original error: {e}"
+        ) from e
+
 # ============================================================
 # PROJECT PATH
 # ============================================================
