@@ -1594,10 +1594,7 @@ def generate_pdf():
 
         latin_reg_file = font_dir / "NotoSans-Regular.ttf"
         latin_bold_file = font_dir / "NotoSans-Bold.ttf"
-        if not latin_reg_file.exists():
-            latin_reg_file = Path("/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf")
-        if not latin_bold_file.exists():
-            latin_bold_file = Path("/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
+       
 
         f_title = ImageFont.truetype(str(bold_file), 31)
         f_sub = ImageFont.truetype(str(reg_file), 16)
